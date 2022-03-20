@@ -1,0 +1,5 @@
+hola mundo
+
+este es el primer archivo con git en mac
+
+este es un chanchito feliz
